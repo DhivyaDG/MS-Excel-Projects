@@ -1,6 +1,26 @@
-Project: Identifying Customers Likely to Churn for a Telecommunications Provider
+Identifying Customers Likely to Churn for a Telecommunications Provider - Excel Project
+---------------------------------------------------------------------------------------
 
-In this project, I applied a variety of data exploration and analysis techniques to profile customers of telecommunications provider, who churned.
+Goal:	
+-----
+		The aim of this project is to apply data exploration and analysis techniques to profile customers of telecommunications provider, who have churned.
 This projects entails different types of descriptive statistics, identifying which statistic to use and when, how to apply those statistics and analyze real-world data
-and finally how to extend and support that analysis using appropriate visualizations. This is a guided project from DataQuest.
-The excel file has self-explanatory worksheets and elaborate analysis. The "Final Report" worksheet is the dashboard created to communicating the results which can help to make data-driven decisions that can positively affect both the business and customers.
+and finally how to extend and support that analysis using appropriate visualizations.
+
+The data will eventually help the organisation to understand the customers who have churned and following are the steps of the project:
+
+1: calculate the churn rate
+2: calculate some descriptive statistics of numerical columns and start investigating the types of customers who churn
+3: exploring Data Grouped by State and Churn
+4: exploring Data Grouped by voice_mail_plan and churn
+5: analyzing individual distributions of our numerical columns
+6: visualizing Data Grouped by State and Churn
+7: exploring and Visualizing Data Grouped by Churn
+
+The dataset has been cleaned and the steps are mentioned in the "Home" sheet of the Excel workbook "telcom_customer_data_final". 
+There is a separate worksheet for every step mentioned above.
+
+Please check the "Final Report" worksheet which is the dashboard created to communicate the results which can help to make data-driven decisions 
+that can positively affect both the business and customers.
+
+Thank You!
