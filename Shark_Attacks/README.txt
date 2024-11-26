@@ -22,7 +22,8 @@ The dataset has been cleaned and the steps are mentioned in the "CleaningSteps" 
 The cleaned data set has observations from the year 1851 but the analysis has been done from 2000-2017.
 There is a separate worksheet for every question mentioned above.
 
-Please check the "Dashboard" worksheet for the analysis results.
+Please check the "Dashboard" worksheet for the analysis results. In addition IBM Cognos BI tool was also used for data analysis and visualization and the dashboard
+is attached in this project folder.
 
 Thank You!
 
