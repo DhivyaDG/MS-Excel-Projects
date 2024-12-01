@@ -1,9 +1,8 @@
 Identifying Customers Likely to Churn for a Telecommunications Provider - Excel Project
 ---------------------------------------------------------------------------------------
 
-Goal:	
------
-		The aim of this project is to apply data exploration and analysis techniques to profile customers of telecommunications provider, who have churned.
+Description:	
+	The aim of this project is to apply data exploration and analysis techniques to profile customers of telecommunications provider, who have churned.
 This projects entails different types of descriptive statistics, identifying which statistic to use and when, how to apply those statistics and analyze real-world data
 and finally how to extend and support that analysis using appropriate visualizations.
 
