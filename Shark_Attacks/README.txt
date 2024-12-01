@@ -1,9 +1,8 @@
 Shark Attacks - Excel Project
 ----------------------------------
 
-Goal:	
------
-		The aim of this project is to prepare a real-life dataset for analysis and study shark attacks for a governmental research organization that studies marine biology. The source of the data file has been taken from the url: https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks
+Description:	
+	The aim of this project is to prepare a real-life dataset for analysis and study shark attacks for a governmental research organization that studies marine biology. The source of the data file has been taken from the url: https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks
 The csv files has also been attached along with the excel workbook.
 
 The data will eventually help the organisation to understand the following questions:
