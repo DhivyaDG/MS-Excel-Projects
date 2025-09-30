@@ -2,7 +2,7 @@ Shark Attacks - Excel Project
 ----------------------------------
 
 Description:	
-	The aim of this project is to prepare a real-life dataset for analysis and study shark attacks for a governmental research organization that studies marine biology. The source of the data file has been taken from the url: https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks
+	The aim of this project is to analyze the real-life dataset and study shark attacks for a governmental research organization that studies marine biology. The source of the data file has been taken from the url: https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks
 The csv files has also been attached along with the excel workbook.
 
 The data will eventually help the organisation to understand the following questions:
@@ -13,7 +13,7 @@ The data will eventually help the organisation to understand the following quest
 4	Are there specific activities that provoke more shark attacks than others?
 5	What are common features of places with the most shark attacks? 
 
-The research team has asked you to prepare the data as follows. These are the fields they are interested in keeping:
+The research team has asked to prepare the data as follows. These are the fields they are interested in keeping:
 
 Case Number,Year,Type,Country,Area,Location,Activity,Sex,Age,Injury,Fatal
 
@@ -25,6 +25,7 @@ Please check the "Dashboard" worksheet for the analysis results. In addition IBM
 is attached in this project folder.
 
 Thank You!
+
 
 
 
